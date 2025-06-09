@@ -37,7 +37,7 @@ Make sure you have the following installed:
 ```bash
 # Clone the repo
 git clone git@github.com:DevAdi-Man/pingPong-game.git
-cd ping-pong-game
+cd pingPong-game
 
 # Create build directory and compile
 mkdir build && cd build
