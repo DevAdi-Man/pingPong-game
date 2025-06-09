@@ -44,5 +44,9 @@ mkdir build && cd build
 cmake ..
 make
 
+or
+
+g++ main.cpp -o PingPongGame -lsfml-graphics -lsfml-window -lsfml-system
+
 # Run the game
 ./PingPongGame
